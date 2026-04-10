@@ -21,7 +21,7 @@ CATEGORIES = {
 }
 
 # Max stories per category
-MAX_PER_CATEGORY = 25
+MAX_PER_CATEGORY = 35
 
 
 def fetch_top_story_ids():
